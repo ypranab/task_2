@@ -1,0 +1,27 @@
+.categories{
+    display: flex;
+    justify-content: space-evenly
+}
+.categor.item{
+    display: flex;
+}
+.items img{
+    width: 100px;
+}
+.cate1{
+    background-color: tomato;
+    display: flex;
+}
+.cate2{
+    background-color: blueviolet;
+    display: flex;
+}
+.cate3{
+    background-color: teal;
+    display: flex;
+}
+.cate1, .cate2, .cate3{
+    padding: 8px 50px;
+    border-radius: 8px;
+    align-items: center;
+}
